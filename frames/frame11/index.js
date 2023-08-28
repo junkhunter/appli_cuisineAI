@@ -1,0 +1,1 @@
+export { PageBienvenue } from "./PageBienvenue";

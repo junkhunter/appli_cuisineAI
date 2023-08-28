@@ -1,0 +1,46 @@
+.search-field {
+  background-color: #ebebd399;
+  border-radius: 10px;
+  height: 46px;
+  position: relative;
+  width: 259px;
+}
+
+.search-field .big-label {
+  color: #483d3f99;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 103px;
+}
+
+.search-field .search {
+  position: absolute;
+}
+
+.search-field .img {
+  height: 27px;
+  left: 7px;
+  position: absolute;
+  top: 10px;
+  width: 27px;
+}
+
+.search-field .active {
+  height: 19px;
+  left: 40px;
+  top: 14px;
+  width: 1px;
+}
+
+.search-field .default {
+  height: 27px;
+  left: 7px;
+  top: 10px;
+  width: 27px;
+}

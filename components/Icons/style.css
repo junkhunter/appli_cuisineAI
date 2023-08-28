@@ -1,0 +1,13 @@
+.icons {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.icons .home-alt {
+  height: 24px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 24px;
+}

@@ -1,0 +1,1 @@
+export { DGroupe } from "./DGroupe";

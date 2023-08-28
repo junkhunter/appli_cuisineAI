@@ -1,0 +1,17 @@
+.multiple-select {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 130px;
+}
+
+.multiple-select .option-select-instance {
+  flex: 0 0 auto !important;
+  width: 130px !important;
+}
+
+.multiple-select .design-component-instance-node {
+  margin-right: -200px !important;
+}

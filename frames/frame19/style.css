@@ -1,0 +1,117 @@
+.like {
+  background: linear-gradient(180deg, rgb(193, 93, 71) 0%, rgb(235, 235, 211) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 800px;
+  width: 360px;
+}
+
+.like .overlap-3 {
+  height: 800px;
+  position: relative;
+}
+
+.like .div-wrapper {
+  height: 38px;
+  left: 116px;
+  position: absolute;
+  top: 12px;
+  width: 130px;
+}
+
+.like .overlap-group-2 {
+  height: 38px;
+  position: relative;
+  width: 128px;
+}
+
+.like .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Gothic A1", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 6px;
+  width: 128px;
+}
+
+.like .logo {
+  height: 38px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.like .background {
+  height: 800px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.like .menu-AL-instance {
+  height: 63px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 737px !important;
+}
+
+.like .design-component-instance-node {
+  margin-bottom: -2px !important;
+}
+
+.like .like-page {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 540px;
+  left: 44px;
+  overflow: hidden;
+  overflow-y: scroll;
+  padding: 0px 0px 27px;
+  position: absolute;
+  top: 181px;
+}
+
+.like .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.like .like-design-instance {
+  position: relative !important;
+}
+
+.like .like-design-2 {
+  height: 133px !important;
+  left: unset !important;
+  width: unset !important;
+}
+
+.like .like-design-3 {
+  left: 0 !important;
+}
+
+.like .like-design-4 {
+  height: 121px !important;
+  width: 121px !important;
+}
+
+.like .static-heart-2 {
+  height: 28px !important;
+  left: 169px !important;
+  top: 101px !important;
+  width: 32px !important;
+}

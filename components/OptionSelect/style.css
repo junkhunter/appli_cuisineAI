@@ -1,0 +1,37 @@
+.option-select {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  gap: 10px;
+  padding: 10px 20px;
+  position: relative;
+  width: 330px;
+}
+
+.option-select .text {
+  color: #483d3f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.option-select.state-true {
+  background-color: #cdb6df87;
+}
+
+.option-select.state-false {
+  border: 1px solid;
+  border-color: #483d3f;
+}
+
+.option-select.state-true .text {
+  flex: 1;
+}
+
+.option-select.state-false .text {
+  width: 290px;
+}

@@ -1,0 +1,202 @@
+.menu-AL {
+  align-items: flex-start;
+  background-color: #483d3f;
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  height: 68px;
+  padding: 3px 7px;
+  position: relative;
+  width: 360px;
+}
+
+.menu-AL .menu-items {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+}
+
+.menu-AL .text-wrapper {
+  color: #cdb6df;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu-AL .div {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+}
+
+.menu-AL .menu-items-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+}
+
+.menu-AL .menu-items-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+}
+
+.menu-AL .menu-items-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 9px 10px;
+  position: relative;
+}
+
+.menu-AL .profile {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .group {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .FL {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .MP {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .inactive {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-profile {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-group {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-home {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-FL {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-inactive {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-0-profile {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-0-group {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-0-home {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-0-MP {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-0-inactive {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-1-profile {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-1-home {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-1-FL {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-1-MP {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-1-inactive {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-2-group {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-2-home {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-2-FL {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-2-MP {
+  justify-content: center;
+  opacity: 0.5;
+}
+
+.menu-AL .active-items-2-inactive {
+  justify-content: center;
+  opacity: 0.5;
+}

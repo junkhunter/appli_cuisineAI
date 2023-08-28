@@ -1,0 +1,20 @@
+.heart {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.heart.state-final {
+  height: 20px;
+  width: 24px;
+}
+
+.heart.state-expended {
+  height: 26px;
+  width: 30px;
+}
+
+.heart.state-default {
+  height: 20px;
+  width: 24px;
+}

@@ -1,0 +1,1 @@
+export { CatTag } from "./CatTag";

@@ -1,0 +1,148 @@
+.page-d-accueil {
+  background: linear-gradient(180deg, rgb(193, 93, 71) 0%, rgb(235, 235, 211) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 800px;
+  width: 360px;
+}
+
+.page-d-accueil .overlap-3 {
+  height: 800px;
+  position: relative;
+}
+
+.page-d-accueil .group-3 {
+  height: 38px;
+  left: 116px;
+  position: absolute;
+  top: 12px;
+  width: 130px;
+}
+
+.page-d-accueil .overlap-group-3 {
+  height: 38px;
+  position: relative;
+  width: 128px;
+}
+
+.page-d-accueil .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Gothic A1", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 6px;
+  width: 128px;
+}
+
+.page-d-accueil .logo {
+  height: 38px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.page-d-accueil .background {
+  height: 800px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.page-d-accueil .menu-AL-instance {
+  height: 63px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 737px !important;
+}
+
+.page-d-accueil .design-component-instance-node {
+  margin-bottom: -2px !important;
+}
+
+.page-d-accueil .search-field-instance {
+  background-color: #ebebd3 !important;
+  box-shadow: 0px 4px 4px #00000040 !important;
+  height: 35px !important;
+  left: 14px !important;
+  position: absolute !important;
+  top: 78px !important;
+}
+
+.page-d-accueil .search-field-2 {
+  color: #483d3f !important;
+  top: 8px !important;
+}
+
+.page-d-accueil .search-field-3 {
+  top: 5px !important;
+}
+
+.page-d-accueil .cat {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 60px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 141px;
+}
+
+.page-d-accueil .cat-tag-instance {
+  flex: 0 0 auto !important;
+  gap: 15px !important;
+}
+
+.page-d-accueil .PA-food-scroll {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 22px;
+  height: 548px;
+  left: 69px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 189px;
+}
+
+.page-d-accueil .phase-1-2 {
+  position: relative !important;
+}
+
+.page-d-accueil .phase-instance {
+  height: 252px !important;
+  left: unset !important;
+  width: unset !important;
+}
+
+.page-d-accueil .phase-1-2-instance {
+  left: 0 !important;
+}
+
+.page-d-accueil .phase-2 {
+  height: 230px !important;
+  width: 230px !important;
+}
+
+.page-d-accueil .filtre {
+  height: 32px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 138px !important;
+  width: 32px !important;
+}
+
+.page-d-accueil .static-heart-1 {
+  left: 289px !important;
+  top: 87px !important;
+}

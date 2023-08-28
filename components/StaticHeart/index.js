@@ -1,0 +1,1 @@
+export { StaticHeart } from "./StaticHeart";

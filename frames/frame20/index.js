@@ -1,0 +1,1 @@
+export { PageDeRecette } from "./PageDeRecette";

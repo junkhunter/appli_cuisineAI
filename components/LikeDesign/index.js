@@ -1,0 +1,1 @@
+export { LikeDesign } from "./LikeDesign";
